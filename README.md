@@ -1,3 +1,3 @@
-# dart_3_speakers_toolkit
+Sample code for the talk "Cleaner Flutter code with Dart 3."
 
-A new Flutter project.
+This code is very incomplete. Don't try to run it. It's meant as a reference only. 
